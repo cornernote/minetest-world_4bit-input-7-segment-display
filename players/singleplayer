@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = singleplayer
+pitch = 0.59
+position = (64.47,33.09,1035.81)
+version = 1
+yaw = 178.59
+PlayerArgsEnd
+List main 32
+Width 0
+Item mesecons_switch:mesecon_switch_off
+Item mesecons_lightstone:lightstone_gray_off
+Item mesecons_microcontroller:microcontroller0000
+Item mesecons_insulated:insulated_off
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory
